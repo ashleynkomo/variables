@@ -8,4 +8,4 @@ third_number = int(input("Please enter 3rd number: "))
 
 total = first_number * second_number / third_number
 
-print("The sum of these number is {0}".format(total))
+print("The answer is {0}".format(total))
